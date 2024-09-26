@@ -15,4 +15,3 @@ Here are some ideas to get you started:
   
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 <img width="100" alt="86498175-86c40400-bd39-11ea-90de-1315a043fd45" src="https://github.com/user-attachments/assets/b10eada4-2b91-413f-818b-3d6d87ccac28">
-<img with="100" src="https://github.com/user-attachments/assets/3efe6e90-49c9-40ef-89b1-98d07a539c4a">
