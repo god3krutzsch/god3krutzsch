@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - Experiences
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-![68747470733a2f2f73746174732e7175696e652e73682f6261702f646570656e64656e636965733f7468656d653d6461726b](https://github.com/user-attachments/assets/3e9703a5-5a86-4ac8-94a7-f8219b7f0005)
-
-<img width="200" alt="86498175-86c40400-bd39-11ea-90de-1315a043fd45" src="https://github.com/user-attachments/assets/b10eada4-2b91-413f-818b-3d6d87ccac28">
+<img width="100" alt="86498175-86c40400-bd39-11ea-90de-1315a043fd45" src="https://github.com/user-attachments/assets/b10eada4-2b91-413f-818b-3d6d87ccac28">
+![thumb1](https://github.com/user-attachments/assets/3efe6e90-49c9-40ef-89b1-98d07a539c4a)
