@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about neural networks
 - 📫 How to reach me: ... gl2018@protonmail.com
 - ⚡ Fun fact: i support Bayner München
-
+- Experiences
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![python](https://github.com/user-attachments/assets/eceea246-361c-4f14-b76c-f6b602072dd0)
