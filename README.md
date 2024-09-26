@@ -5,12 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on deep learning models
-- 🌱 I’m currently learning python for neural networks specifically cnns for classify
+- 🔭 I’m currently working on deep learning models and machine learning models
+- 🌱 I’m currently learning neural networks specifically cnns for classification
 - 👯 I’m looking to collaborate on all things ai from machine learning to natural language processing
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about neural networks
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: ... gl2018@protonmail.com
 - ⚡ Fun fact: i support Bayner München
 
