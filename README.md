@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![68747470733a2f2f73746174732e7175696e652e73682f6261702f646570656e64656e636965733f7468656d653d6461726b](https://github.com/user-attachments/assets/3e9703a5-5a86-4ac8-94a7-f8219b7f0005)
-![NumPy_logo_2020 svg](https://github.com/user-attachments/assets/8fddfe9a-0ae9-4458-976a-b0c535fe07b9)
+
+<img width="200" alt="86498175-86c40400-bd39-11ea-90de-1315a043fd45" src="https://github.com/user-attachments/assets/b10eada4-2b91-413f-818b-3d6d87ccac28">
