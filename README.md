@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on all things ai from machine learning to natural language processing
 - 💬 Ask me about neural networks
 - 📫 How to reach me: ... gl2018@protonmail.com
-- ⚡ Fun fact: i support Bayner München
+- ⚡ Fun facts: i support Bayner München and love star wars
 - Experiences
   
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
