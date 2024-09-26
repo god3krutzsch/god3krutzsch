@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i support Bayner München
 - Experiences
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![python](https://github.com/user-attachments/assets/eceea246-361c-4f14-b76c-f6b602072dd0)
+
+![68747470733a2f2f73746174732e7175696e652e73682f6261702f646570656e64656e636965733f7468656d653d6461726b](https://github.com/user-attachments/assets/3e9703a5-5a86-4ac8-94a7-f8219b7f0005)
