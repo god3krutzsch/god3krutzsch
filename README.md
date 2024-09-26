@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... gl2018@protonmail.com
 - ⚡ Fun fact: i support Bayner München
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
